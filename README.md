@@ -3,7 +3,7 @@
 The generation and synchronization of Lorenz chaotic systems with numerical integration methods Runge-Kutta. Most of scientific problems and natural phenomena can be modeled by chaotic systems of ordinary differential   equations.    These    problems    can be solved by using various methods.  In this project, we will be doing the Runge-Kutta method of order four on the chaotic system and will be showing the 3D implementation in the form of animation of Lorentz attractor using Runge-Kutta.
 </h4>
 <br>
-<h6>MC205 PROJECT</h6>
+<h6>MC204 PROJECT</h6>
 <br>
 <h6>Lakshita Singh & Isha Agarwal</h6>
 
